@@ -4902,3 +4902,4 @@ git stat
 - [Nallll88](https://github.com/Nallll88)
 - [Binayak Bhattacharjee](https://github.com/ZenMachina16)
 - [Akash Javali](https://github.com/akashjavali)
+- [KarinaRochaG](https://github.com/KarinaRochaG)
